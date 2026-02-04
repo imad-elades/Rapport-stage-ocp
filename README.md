@@ -5,7 +5,7 @@
 Ce dépôt contient mon rapport de stage effectué au sein du groupe **OCP (Office Chérifien des Phosphates)**, leader mondial de l'industrie des phosphates. L'étude se concentre sur le système **OPM (OCP Process Manufacturing)**, une solution technologique avancée pour la surveillance en temps réel et l'optimisation de la flotte d'engins miniers.
 
 ![OCP Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ocp-group.png/330px-Ocp-group.png)
-*(Remplacez ce lien par une image pertinente si disponible)*
+
 
 ## 📄 Aperçu du Projet
 
